@@ -1,0 +1,9 @@
+2017-11-22 22:57:37.639 [Thread-23] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4278284b: startup date [Wed Nov 22 22:53:06 CST 2017]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@2a798d51
+2017-11-22 22:57:37.650 [Thread-23] INFO  o.s.c.n.e.EurekaDiscoveryClientConfiguration -Unregistering application eureka-server with eureka with status DOWN
+2017-11-22 22:57:37.660 [Thread-23] INFO  o.s.c.s.DefaultLifecycleProcessor -Stopping beans in phase 0
+2017-11-22 22:57:37.675 [Thread-23] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter -Unregistering JMX-exposed beans on shutdown
+2017-11-22 22:57:37.675 [Thread-23] INFO  o.s.b.a.e.jmx.EndpointMBeanExporter -Unregistering JMX-exposed beans
+2017-11-22 22:57:37.676 [Thread-23] INFO  o.s.j.e.a.AnnotationMBeanExporter -Unregistering JMX-exposed beans on shutdown
+2017-11-22 22:57:37.677 [Thread-23] INFO  o.s.j.e.a.AnnotationMBeanExporter -Unregistering JMX-exposed beans
+2017-11-22 22:57:37.679 [Thread-23] INFO  c.n.e.DefaultEurekaServerContext -Shutting down ...
+2017-11-22 22:57:37.686 [Thread-23] INFO  c.n.e.DefaultEurekaServerContext -Shut down
